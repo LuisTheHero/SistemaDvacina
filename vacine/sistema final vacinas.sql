@@ -1,5 +1,6 @@
 CREATE DATABASE SistemaDVacinas;
--- DROP DATABASE SistemaDVacinas;
+-- DROP DATABASE SistemaDeVacinas;
+
 use SistemaDVacinas;
 
 CREATE TABLE funcionarios(
